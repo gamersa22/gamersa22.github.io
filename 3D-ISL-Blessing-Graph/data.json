@@ -220,7 +220,7 @@
 	{"id": "Ais Wallenstein", "group": 11},
 	{"id": "Allucia", "group": 11},
 	{"id": "Athena", "group": 11},
-	{"id": "Nyar", "group": 11},
+	{"id": "Nyar1", "group": 11},
 	{"id": "Magellan", "group": 11},
 	{"id": "Gale", "group": 12},
 	{"id": "Umbra", "group": 12},
@@ -729,14 +729,14 @@
 	{"source": "Sylthiel", "target": "Magellan", "value": 1},
 	{"source": "Sylthiel", "target": "Gale", "value": 1},
 	{"source": "Sylthiel", "target": "Thora", "value": 1},
-	{"source": "Nyar", "target": "Nyar", "value": 1},
-	{"source": "Nyar", "target": "Heracles", "value": 1},
-	{"source": "Nyar", "target": "Magellan", "value": 1},
-	{"source": "Nyar", "target": "Freesia", "value": 1},
-	{"source": "Nyar", "target": "Mio", "value": 1},
-	{"source": "Nyar", "target": "Gale", "value": 1},
-	{"source": "Nyar", "target": "Natsu", "value": 1},
-	{"source": "Nyar", "target": "Kuku", "value": 1},
+	{"source": "Nyar1", "target": "Nyar", "value": 1},
+	{"source": "Nyar1", "target": "Heracles", "value": 1},
+	{"source": "Nyar1", "target": "Magellan", "value": 1},
+	{"source": "Nyar1", "target": "Freesia", "value": 1},
+	{"source": "Nyar1", "target": "Mio", "value": 1},
+	{"source": "Nyar1", "target": "Gale", "value": 1},
+	{"source": "Nyar1", "target": "Natsu", "value": 1},
+	{"source": "Nyar1", "target": "Kuku", "value": 1},
 	{"source": "Roxy Miguardia", "target": "Roxy Miguardia", "value": 1},
 	{"source": "Roxy Miguardia", "target": "Aisha Greyrat", "value": 1},
 	{"source": "Roxy Miguardia", "target": "Norn Greyrat", "value": 1},
@@ -813,3 +813,4 @@
 	{"source": "Nirvana", "target": "Gabrael", "value": 1}
   ]
 }
+
